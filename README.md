@@ -10,3 +10,4 @@ The use of `cound` is very versatile, e.g:
 | `cound`      | `could`      |
 | `cound't`    | `couldn't`   |
 | `coundn't`   | `couldn't`   |
+| `secound`    | `second`     |
